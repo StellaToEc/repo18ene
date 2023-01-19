@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="293efb32-e0f4-4d6e-bfc1-7bb8daf84f57" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Knn/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Knn/.idea/Knn.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Knn/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Knn/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Knn/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Knn/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sal y pimienta/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProyectoKNN/.idea/Practica01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ProyectoKNN/.idea/Practica01.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProyectoKNN/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ProyectoKNN/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProyectoKNN/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ProyectoKNN/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProyectoKNN/imagen.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProyectoKNN/imagen.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProyectoKNN/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProyectoKNN/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sal y pimienta/.idea/Sal y pimienta.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Sal y pimienta/.idea/Sal y pimienta.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sal y pimienta/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Sal y pimienta/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sal y pimienta/I mixto/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sal y pimienta/I mixto/99.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sal y pimienta/Letras.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sal y pimienta/PIMIENTA.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Sal y pimienta/PIMIENTA.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sal y pimienta/SAL.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Sal y pimienta/SAL.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sal y pimienta/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sal y pimienta/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Knn" />
+  </component>
+  <component name="ProjectId" id="2JuSd0vcZ0jT8rcxffPUkZktZVV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/fox-a/Desktop/3CM12_projectDiamond-2022-2023-1/2do/PC2/ProyectoKNN"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="293efb32-e0f4-4d6e-bfc1-7bb8daf84f57" name="Changes" comment="" />
+      <created>1672926559060</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672926559060</updated>
+    </task>
+    <servers />
+  </component>
+</project>
